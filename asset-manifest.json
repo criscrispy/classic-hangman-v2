@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/classic-hangman-v2/static/css/main.c4166062.chunk.css",
+    "main.css": "/classic-hangman-v2/static/css/main.75c5b442.chunk.css",
     "main.js": "/classic-hangman-v2/static/js/main.305f1a6b.chunk.js",
     "main.js.map": "/classic-hangman-v2/static/js/main.305f1a6b.chunk.js.map",
     "runtime-main.js": "/classic-hangman-v2/static/js/runtime-main.6fdb880e.js",
@@ -10,7 +10,7 @@
     "static/js/3.9773df6f.chunk.js": "/classic-hangman-v2/static/js/3.9773df6f.chunk.js",
     "static/js/3.9773df6f.chunk.js.map": "/classic-hangman-v2/static/js/3.9773df6f.chunk.js.map",
     "index.html": "/classic-hangman-v2/index.html",
-    "static/css/main.c4166062.chunk.css.map": "/classic-hangman-v2/static/css/main.c4166062.chunk.css.map",
+    "static/css/main.75c5b442.chunk.css.map": "/classic-hangman-v2/static/css/main.75c5b442.chunk.css.map",
     "static/js/2.5f8a0021.chunk.js.LICENSE.txt": "/classic-hangman-v2/static/js/2.5f8a0021.chunk.js.LICENSE.txt",
     "static/media/0.72059a7f.jpg": "/classic-hangman-v2/static/media/0.72059a7f.jpg",
     "static/media/1.9a23caa6.jpg": "/classic-hangman-v2/static/media/1.9a23caa6.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.6fdb880e.js",
     "static/js/2.5f8a0021.chunk.js",
-    "static/css/main.c4166062.chunk.css",
+    "static/css/main.75c5b442.chunk.css",
     "static/js/main.305f1a6b.chunk.js"
   ]
 }
