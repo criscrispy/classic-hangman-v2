@@ -17,8 +17,6 @@
 	flex-flow: row wrap;
 	align-items: center;
 	justify-content: space-evenly;
-	height: 100vh;
-	width: 100vw;
 }
 
 .Hangman-image-section {
